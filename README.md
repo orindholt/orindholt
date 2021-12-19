@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @orindholt
 - 👀 I’m interested in ... Programming & Web Development..
 - 🌱 I’m currently learning ... Frontend Development
-- 📫 How to reach me ... oliverrindholt.dk
+- 📫 How to reach me ... [oliverrindholt.dk](https://oliverrindholt.dk)
