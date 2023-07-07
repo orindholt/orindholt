@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Oliver
-A frontend developer for the most part, but a fast learning, and inspired, future full-stack dev.<br/>
+Full-stack dev, based in Copenhagen, Denmark.<br/>
 I'm currently learning many subjects, but primarily React, and Next.js.<br/>
 
 Excited to learn much more in the future!
