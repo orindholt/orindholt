@@ -16,6 +16,4 @@ Excited to learn much more in the future!
 | ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)                       |                                                                                                                             |                                                                                                                 |
 | ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)                 |                                                                                                                             |                                                                                                                 |
 
-Feel free to check out my work here on my Github, at my work in progress [portfolio](https://www.oliverrindholt.dk/) or my [Linkedin](https://www.linkedin.com/in/oliver-rindholt-55707b217/).
-
-If you want to shoot me a message, you can do so at my [portfolio](https://www.oliverrindholt.dk/contact) contact page.
+Feel free to check out my work here on my Github, at my work in progress [portfolio](https://www.orindholt.com/) or my [Linkedin](https://www.linkedin.com/in/oliver-rindholt-55707b217/).
