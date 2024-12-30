@@ -1,6 +1,6 @@
 # 👋 Grettings, I’m Oliver
 Full-stack dev, based in Copenhagen, Denmark. 🇩🇰<br></br>
-I’m all about building fast, easy-to-maintain Next.js apps that run smoothly and don’t weigh down the server. My goal is to create things that are efficient, scalable, and hassle-free for the long run.
+I’m all about building performant, easy-to-maintain Next.js apps that run smoothly and don’t weigh down the server. My goal is to create things that are efficient, scalable, and hassle-free for the long run.
 <br></br>
 - 🪂 Lover of trying new stuff
 - ⚡ Avid Radiohead listener
