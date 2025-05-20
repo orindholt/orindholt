@@ -10,8 +10,6 @@ I’m all about building performant, easy-to-maintain Next.js apps that run smoo
 - 🤓 Total nerd energy
 <br></br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=orindholt&theme=radical&hide_title=true)](https://github.com/denvercoder1/github-readme-streak-stats)
-
 
 ## 🛠️ Primary Tools
 
